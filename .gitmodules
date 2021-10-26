@@ -1,0 +1,6 @@
+[submodule "angular-app"]
+	path = angular-app
+	url = https://github.com/j-a-y-m/dev-forum.git
+[submodule "dev-forum-express"]
+	path = dev-forum-express
+	url = https://github.com/j-a-y-m/dev-forum.git
